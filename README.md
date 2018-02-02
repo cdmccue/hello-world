@@ -7,6 +7,8 @@ Hello!
 
 - christian mccue COS 420 student
 
-
-
 GOODBYE!!!!
+
+----- part 3 cause problems -----
+
+Hi Alice!
