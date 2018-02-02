@@ -12,3 +12,5 @@ GOODBYE!!!!
 ----- part 3 cause problems -----
 
 Hi Alice!
+
+Hi Bob!!!
