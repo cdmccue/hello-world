@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -21,6 +23,10 @@ public class HelloWorld {
 		System.out.println("Hi Charlie!");
 
 		System.out.println("Hello Denise!");
+
+		//place code here for current date
+		Date date = new Date();
+		System.out.println("Current date: " + date);
 
     }
 
