@@ -1,5 +1,6 @@
 import java.util.Date;
 
+
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -27,6 +28,9 @@ public class HelloWorld {
 		//place code here for current date
 		Date date = new Date();
 		System.out.println("Current date: " + date);
+
+		//place code here for current amount of memory
+		System.out.println("Total memory: " + Runtime.getRuntime().totalMemory());
 
     }
 
